@@ -2,7 +2,7 @@
 /*通信は各車両間でのみ行われる*/
 
 #define MIN 0
-#define MAX 5
+#define MAX 7
 #define IDLE 0
 #define WAITING 1
 #define PASSING 2

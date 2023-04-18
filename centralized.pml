@@ -1,7 +1,7 @@
 /*centralizedのアルゴリズム*/
 /*通信のやり取りは車両と制御システム間のみでメッセージの損失はないものとする*/
 #define MIN 0
-#define MAX 5
+#define MAX 7
 #define VNUM 4 /*車両の台数*/
 #define NP 8    /*passing listに含めることができる最大の台数*/
 
